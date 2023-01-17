@@ -7,8 +7,10 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 * ☁️ AWS, Azure
 * 💻 HTML, CSS
 
-## 🛡️ Badges
 
+## :shield:  Badges 
+
+![AWS Cloud Practitioner](https://github.com/vaibhavkapase1302/Vaibhav-Kapase/blob/main/aws-practitioner.png) 
 <html>
 <div>
      
