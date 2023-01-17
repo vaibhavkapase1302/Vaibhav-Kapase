@@ -4,7 +4,7 @@
 <html>
 <div align="center">
    <h1>Hello!  I'm Vaibhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <h3 align="center">AWS Cloud Computing | Front end developer | Microsoft Azure | Coding Enthusiast</h3>
+   <h3 align="center">AWS Cloud Computing | Microsoft Azure | Front end developer | Coding Enthusiast</h3>
 </div>
 </html>
 
@@ -13,7 +13,7 @@
  <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/output-onlinegiftools+(1).gif" width="350" height="350">
    
 [![Linkedin Badge](https://img.shields.io/badge/-VaibhavKapase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vaibhavkapase/)](https://www.linkedin.com/in/vaibhavkapase/)
-
+[![Gmail Badge](https://img.shields.io/badge/-vaibhavbkapase@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhavbkapase@gmail.com)](mailto:vaibhavbkapase@gmail.com)
 
   
 ## ⚡ Technologies and Skills
@@ -45,5 +45,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkapase&show_icons=true&theme=dark"/>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
